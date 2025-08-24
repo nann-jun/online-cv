@@ -44,22 +44,22 @@ career-profile:
 
 
 education:
-  title: Education
-  info:
-  - degree: MS. in Electrical Engineering
-    university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
-    time: Sep. 2025 - Present
-    details: |
-      Advisor: Prof. Seokhyeong Kang
-      
-  - degree: BS. in Electronic Engineering
-    university: Hanyang University, Seoul, South Korea
-    time: Mar. 2023 - Aug. 2025
-    details: |
+    title: EDUCATION
+    info:
+      - degree: MS. in Electrical Engineering
+        university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
+        time: Aug. 2025 - present
+        details: |
+          Advisor: Prof. Seokhyeong Kang
+
+      - degree: BS. in Electronic Engineering
+        university: Hanyang University, Seoul, South Korea
+        time: Mar. 2023 - Aug. 2025
+        details: |
 
 
 experiences:
-  title: Experiences
+    title: EXPERIENCES
   info:
   - role: Undergraduate Intern
     time: Sep 2024 - Dec 2024
@@ -68,13 +68,15 @@ experiences:
       Worked in a Long-term Intern Session in the Controller Development Team
 
 projects:
+      title: AWARD & SCHOLARSHIPMENT
 
 
 publications:
+    title: Publications
 
 
 skills:
-  title: Skills &amp; Proficiency
+    title: SKILLS & PROFICIENCY
 
   toolset:
   - name: Python
