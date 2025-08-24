@@ -59,13 +59,11 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Intern
+  - role: Undergraduate Intern
     time: Sep 2024 - Dec 2024
-    company: Controller Development Team, Memory Business, Device Solutions (DS) Division, Samsung Electronics
+    company: Samsung Electronics
     details: |
-      1. AMBA AHB/AXI Seminar
-      2. SRAM Verification using SystemVerilog
-      3. SRMA-C (Controller) Verification using UVM (Universal Verification Methodology)
+      Worked in a Long-term Intern Session in the Controller Development Team
 
 projects:
 
