@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Yunjun Nam
@@ -20,74 +20,61 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: Korea
-      level: Native
-
-    - idiom: English
-      level: Normal
-      
+      - idiom: Korea
+        level: Native
+      - idiom: English
+        level: Normal
 
   interests:
     title: Interests
     info:
-    - item: Physical Design Optimization
-      link:
-
-    - item: Gym
-      link:
-
+      - item: Physical Design Optimization
+        link:
+      - item: Gym
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Yunjun Nam received the BS. degree in Electronic Engineering from Hanyang University, Seoul, South Korea, in 2025. He is currently the MS. candidate in Electrical Engineering in 2025 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current research interests include Physical Design Optimization. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
-
+  title: Career Profile
+  summary: |
+    Yunjun Nam received the BS. degree in Electronic Engineering from Hanyang University, Seoul, South Korea, in 2025. He is currently the MS. candidate in Electrical Engineering in 2025 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current research interests include Physical Design Optimization. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
 
 education:
-    title: EDUCATION
-    info:
-      - degree: MS. in Electrical Engineering
-        university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
-        time: Aug. 2025 - present
-        details: |
-          Advisor: Prof. Seokhyeong Kang
-
-      - degree: BS. in Electronic Engineering
-        university: Hanyang University, Seoul, South Korea
-        time: Mar. 2023 - Aug. 2025
-        details: |
-
+  title: EDUCATION
+  info:
+    - degree: MS. in Electrical Engineering
+      university: in CSDL, POSTECH (Pohang University of Science and Technology), Republic of Korea
+      time: Sep. 2025 - Present
+      details: |
+        Advisor: Prof. Seokhyeong Kang
+    - degree: BS. in Electronic Engineering
+      university: Hanyang University, Seoul, South Korea
+      time: Mar. 2023 - Aug. 2025
+      details: |
 
 experiences:
-    title: EXPERIENCES
+  title: EXPERIENCES
   info:
-  - role: Undergraduate Intern
-    time: Sep 2024 - Dec 2024
-    company: Samsung Electronics
-    details: |
-      Worked in a Long-term Intern Session in the Controller Development Team
+    - role: Undergraduate Intern
+      time: Sep 2024 - Dec 2024
+      company: Samsung Electronics
+      details: |
+        Worked in a Long-term Intern Session in the Controller Development Team
 
 projects:
-      title: AWARD & SCHOLARSHIPMENT
-
+  title: AWARD & SCHOLARSHIPMENT
 
 publications:
-    title: Publications
-
+  title: Publications
 
 skills:
-    title: SKILLS & PROFICIENCY
-
+  title: SKILLS & PROFICIENCY
   toolset:
-  - name: Python
-    level: 50%
-
-  - name: C/C++
-    level: 50%
-
-  - name: Verilog
-    level: 50%
-
+    - name: Python
+      level: 50%
+    - name: C/C++
+      level: 50%
+    - name: Verilog
+      level: 50%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
