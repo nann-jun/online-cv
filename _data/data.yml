@@ -27,7 +27,9 @@ sidebar:
   interests:
     title: Interests
     info:
-      - item: Physical Design Optimization, AI-EDA
+      - item: Physical Design Optimization
+        link:
+      - item: AI-EDA
         link:
       - item: Gym
         link:
