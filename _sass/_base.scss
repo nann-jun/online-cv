@@ -363,3 +363,21 @@ p {
     margin-right: 5px;
   }
 }
+
+// On narrower screens the fixed top-right buttons cover the sidebar/avatar,
+// so move them to the bottom-right corner.
+@media (max-width: 1199px) {
+  .print-button,
+  .pdf-button {
+    top: auto;
+    bottom: 16px;
+    padding: 6px 12px;
+    font-size: 13px;
+  }
+  .print-button {
+    right: 100px;
+  }
+  .pdf-button {
+    right: 16px;
+  }
+}
